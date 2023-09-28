@@ -1,0 +1,4 @@
+Monday 45 45 42 39
+Tuesday 42 42 40 41
+Sunday 31 32 41 45
+Friday 31 32 41 45
